@@ -9,9 +9,14 @@ public class Remarkable { public static void main(String[] args) {
 					}
 	}JOptionPane.showMessageDialog(null, ("you have 20 frogs!"));
 	
-}{	
+}{
      if ("Daniel".equals(shiv)) {
 	JOptionPane.showMessageDialog(null, ("I'm a good programer!"));
 
 
 }
+	
+
+
+
+
